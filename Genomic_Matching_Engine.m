@@ -1,5 +1,5 @@
-% Genomic Sequence Matching Engine - Golden Model
-num_tests = 50;     % Changed from 100 to 50
+
+num_tests = 50;   
 seq_len = 4;        
 score_width = 8;    
 
